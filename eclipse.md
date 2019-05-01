@@ -1,13 +1,16 @@
 # eclipse shortcuts
 
+## close all windows
+ctrl+shift+w
+
 ## open resource
 ctrl+shift+r
 
-## show in
-shift+alt+w
+## organize imports
+ctrl+shift+o
 
 ## rename
 shift+alt+r
 
-## close all windows
-ctrl+shift+w
+## show in
+shift+alt+w
