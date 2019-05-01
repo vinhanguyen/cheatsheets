@@ -8,3 +8,6 @@ shift+alt+w
 
 ## rename
 shift+alt+r
+
+## close all windows
+ctrl+shift+w
