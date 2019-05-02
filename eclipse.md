@@ -3,6 +3,9 @@
 ## close all windows
 ctrl+shift+w
 
+## lowercase
+ctrl+shift+y
+
 ## open resource
 ctrl+shift+r
 
@@ -14,3 +17,6 @@ shift+alt+r
 
 ## show in
 shift+alt+w
+
+## uppercase
+ctrl+shift+x
