@@ -15,6 +15,9 @@ ctrl+shift+o
 ## rename
 shift+alt+r
 
+## resource properties
+alt+enter
+
 ## show in
 shift+alt+w
 
