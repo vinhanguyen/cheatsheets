@@ -9,6 +9,9 @@ ctrl+shift+y
 ## open resource
 ctrl+shift+r
 
+## open type
+ctrl+shift+t
+
 ## organize imports
 ctrl+shift+o
 
