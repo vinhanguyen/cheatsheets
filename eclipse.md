@@ -21,6 +21,9 @@ shift+alt+r
 ## resource properties
 alt+enter
 
+## select editor
+ctrl+e
+
 ## show in
 shift+alt+w
 
