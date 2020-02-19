@@ -9,3 +9,8 @@ ng generate action <Name> --creators --group --api
 ```
 ng generate interface models/<name>
 ```
+
+## generate reducer
+```
+ng generate reducer <Name> --creators --group --reducers reducers/index.ts --api false
+```
