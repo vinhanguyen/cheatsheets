@@ -14,6 +14,11 @@ ng generate effect Name --creators --group --root --module app.module.ts --api f
 ng generate interface models/name
 ```
 
+## generate module
+```
+ng generate module name --route "path/to/component" --module app.module
+```
+
 ## generate reducer
 ```
 ng generate reducer Name --creators --group --reducers reducers/index.ts --api false
