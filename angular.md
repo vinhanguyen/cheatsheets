@@ -2,5 +2,5 @@
 
 ## generate action
 ```
-ng generate action *Name* --creators --group --api
+ng generate action _Name_ --creators --group --api
 ```
