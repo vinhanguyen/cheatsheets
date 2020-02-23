@@ -5,6 +5,12 @@
 ng generate action Name --creators --group --api
 ```
 
+## generate component (and export)
+```
+cd path/to/module
+ng generate component name --export
+```
+
 ## generate effect
 ```
 ng generate effect Name --creators --group --root --module app.module.ts --api false
@@ -15,6 +21,11 @@ ng generate interface models/name
 ```
 
 ## generate module
+```
+ng generate module name
+```
+
+## generate module (lazy loaded)
 ```
 ng generate module name --route "path/to/component" --module app.module
 ```
