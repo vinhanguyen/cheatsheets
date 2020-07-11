@@ -35,6 +35,11 @@ ng generate module name --route "path/to/component" --module app.module
 ng generate reducer Name --creators --group --reducers reducers/index.ts --api false
 ```
 
+## generate action
+```
+ng generate action Search --creators --flat --group --api
+```
+
 ## generate service
 ```
 ng generate service services/name
