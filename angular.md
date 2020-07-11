@@ -37,7 +37,7 @@ ng generate reducer Name --creators --group --reducers reducers/index.ts --api f
 
 ## generate action
 ```
-ng generate action Search --creators --flat --group --api
+ng generate action Name --creators --flat --group --api
 ```
 
 ## generate service
